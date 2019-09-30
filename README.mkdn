@@ -1,4 +1,4 @@
-[Android Open Kang Project](http://aokp.co)
+[Android Open Kang Project is NOT Dead](http://aokp.co)
 ====================================
 
 ![Kanged Unicorn](http://aokp.co/images/cms-images/106.png)
@@ -13,7 +13,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://github.com/AOKP/platform_manifest.git -b pie
+    $ repo init -u https://github.com/AOKP-is-NOT-Dead/platform_manifest.git -b pie
 
 Sync the repository:
 
